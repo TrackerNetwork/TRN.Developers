@@ -20,7 +20,7 @@ Value: `Your api key`
 
 That's it. Now follow our docs to get stats for each game.
 
-**Rate Limits**
+**Rate Limits**  
 Rate limit increase form coming soon.   Your actual rate limit can be seen on the response of your requests.  
 
 Example:  
