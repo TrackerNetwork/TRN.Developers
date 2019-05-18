@@ -2,7 +2,7 @@
 # TRN.Developers
 Information and Issue Tracker for the Tracker Network API.  This api is 100% free for hobby and non-commercial projects.  We ask that you give credit to us on your site/bot/etc.  Like: Powered By [Tracker Network](https://tracker.gg/)
 
-**Current Games Supported:**
+**Current Games Supported:**  
 [Apex Legends](https://tracker.gg/developers/docs/titles/apex)  
 [The Division 2](https://tracker.gg/developers/docs/titles/division-2)  
 [CSGO](https://tracker.gg/developers/docs/titles/csgo)  
