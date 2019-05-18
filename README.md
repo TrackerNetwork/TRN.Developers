@@ -13,10 +13,10 @@ Many more coming soon!  Use the issue tracker for any requests for data or game 
 
 To get started, [create an app](https://tracker.gg/developers/docs/getting-started).  Once created, you will immediately be issued an API Key.  This is how you will authenticate requests.
 
-**Authentication**
-Add a header to your request. 
-Name:  `TRN-Api-Key`
-Value: `Your api key`
+**Authentication**  
+Add a header to your `GET` request:     
+Name:  `TRN-Api-Key`  
+Value: `Your api key`  
 
 That's it. Now follow our docs to get stats for each game.
 
