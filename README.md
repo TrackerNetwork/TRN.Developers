@@ -6,6 +6,7 @@ Information and Issue Tracker for the Tracker Network API.  This API is 100% fre
 [Apex Legends](https://tracker.gg/developers/docs/titles/apex)  
 [The Division 2](https://tracker.gg/developers/docs/titles/division-2)  
 [CSGO](https://tracker.gg/developers/docs/titles/csgo)  
+[Splitgate](https://tracker.gg/developers/docs/titles/splitgate)  
 
 **Many more coming soon!  Use the issue tracker for any requests for data or game support.**
 
